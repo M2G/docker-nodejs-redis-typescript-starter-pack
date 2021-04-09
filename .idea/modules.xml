@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/docker-nodejs-typescript-starter-pack.iml" filepath="$PROJECT_DIR$/.idea/docker-nodejs-typescript-starter-pack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/docker-nodejs-redis-typescript-starter-pack.iml" filepath="$PROJECT_DIR$/.idea/docker-nodejs-redis-typescript-starter-pack.iml" />
     </modules>
   </component>
 </project>
